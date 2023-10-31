@@ -1,0 +1,23 @@
+{
+  "name": "labirinto2",
+  "version": "1.0.0",
+  "description": "Aula do Biston",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node main.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielpires11/Labirinto2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielpires11/Labirinto2/issues"
+  },
+  "homepage": "https://github.com/gabrielpires11/Labirinto2#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
